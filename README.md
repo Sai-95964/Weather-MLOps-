@@ -1,4 +1,4 @@
-📄 🚀 FULL README.md (COPY-PASTE READY)
+
 # 🌦️ Weather Prediction System — MLOps Pipeline
 
 ## 📌 Overview
